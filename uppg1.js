@@ -8,5 +8,6 @@ function uppg1(){
     
     }
 
+    uppg1()
 
     module.exports = { uppg1 };
