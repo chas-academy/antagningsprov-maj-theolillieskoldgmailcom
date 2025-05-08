@@ -6,8 +6,8 @@ function uppg6(){
     // Loopa igenom arrayen och skriv ut alla namn i konsolen
     const names = ["Theo", "Chas", "Oliver", "Simon", "Edward"]
     
-    for(let name of names){
-        console.log(name)
+    for(let i = 0; i < names.length; i++){
+        console.log(names[i])
     }
 
 }
