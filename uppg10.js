@@ -24,8 +24,8 @@ function uppg10(){
         other.push(numbers[i]);
       }
     }
-    
-  return numbersArray = {bigEven, smallOdd, other}
+   
+    return  {bigEven, smallOdd, other};
 
   }
   

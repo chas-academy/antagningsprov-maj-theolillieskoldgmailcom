@@ -7,8 +7,7 @@ function uppg7() {
     // kalla på funktionen i en return statement och ge den parametrarna 5 och 10
 
     function sum(a, b){
-        let summa = a + b
-        return summa;
+        return a + b;
     }
     
     return sum(5, 10);

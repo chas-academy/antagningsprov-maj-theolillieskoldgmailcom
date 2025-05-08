@@ -21,8 +21,6 @@ const persons = [
 
 ]
 
-overthirty(persons);
-
 function overthirty(array){
 
     for(let i = 0; i < array.length; i++){
@@ -33,6 +31,8 @@ function overthirty(array){
    
 
 }
+
+overthirty(persons);
 
 }
 

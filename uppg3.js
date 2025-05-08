@@ -9,8 +9,7 @@ function uppg3() {
 
     const a = 5
     const b = 10
-    sum = a + b
-    console.log(sum)
+    console.log(a+b)
 
 }
 
